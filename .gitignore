@@ -1,0 +1,4 @@
+# Project specyfic
+node_modules
+reports/
+mochawesome-report/
