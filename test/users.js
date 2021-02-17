@@ -28,7 +28,7 @@ describe('Get users', () => {
             expect()            
         });
         it('the content of the response body is the array of 10 users',()=>{
-            let usersFromRequest = response;
+            const usersFromRequest = response;
             expect(usersFromRequest.length).to.eql(10)
 
         });
