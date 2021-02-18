@@ -9,6 +9,7 @@
   "author": "Aksana_Zanko@epam.com",
   "license": "ISC",
   "dependencies": {
+    "axios": "^0.21.1",
     "chai": "^4.3.0",
     "mocha": "^8.3.0",
     "mochawesome": "^6.2.1",
